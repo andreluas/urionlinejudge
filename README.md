@@ -5,4 +5,4 @@ Repositório criado para estudo dos exercícios feitos no [urionlinejudge](https
 ![Banner](.assets/banner/urionline.png)
 
 ## Problemas e Progresso:
-* [Iniciante]()
+* [Iniciante](https://github.com/andreluas/urionlinejudge/tree/main/01%20-%20iniciante)
