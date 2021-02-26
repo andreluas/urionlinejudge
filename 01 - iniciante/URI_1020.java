@@ -16,8 +16,9 @@ public class URI_1020 {
         int anos = dias/365;
         dias = dias%365;
         int meses = dias/30;
-        int diasF = dias%60;
-        System.out.println(anos + "ano(s)");
+        dias = dias%30;
+        int diasF = dias;
+        System.out.println(anos + " ano(s)");
         System.out.println(meses + " mes(es)");
         System.out.println(diasF + " dia(s)");
         input.close();
