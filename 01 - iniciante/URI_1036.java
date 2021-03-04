@@ -1,5 +1,6 @@
 /*
-Leia 3 valores de ponto flutuante e efetue o calculo das raizes da equacao de Bhaskara. Se nao for possivel calcular as raizes, mostre a mensagem correspondente Impossivel calcular, caso haja uma divisao por 0 ou raiz de numero negativo. 
+Leia 3 valores de ponto flutuante e efetue o calculo das raizes da equacao de Bhaskara. Se nao for possivel calcular as raizes, mostre a mensagem correspondente 
+Impossivel calcular, caso haja uma divisao por 0 ou raiz de numero negativo. 
 */
 
 import java.util.Scanner;
